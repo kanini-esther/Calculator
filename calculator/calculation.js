@@ -1,0 +1,1 @@
+var exp = '', number, decimal, equal, operator, allowSR, =true;
